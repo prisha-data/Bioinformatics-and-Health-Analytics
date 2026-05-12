@@ -1,6 +1,7 @@
 # Bioinformatics & Data Analytics Portfolio
 
 This repository contains my projects and research at the intersection of Biotechnology and Data Science.
+"B.Sc. Biotechnology graduate transitioning into Data Analytics. Passionate about healthcare insights and molecular visualization."
 
 ## 📊 Projects Overview
 
