@@ -36,5 +36,6 @@ This project is a comprehensive data analysis of smart device fitness data to un
 By analyzing 30+ users' daily activity and sleep data, I identified a significant correlation between high sedentary time and reduced sleep quality. I proposed three data-driven marketing strategies focused on "active heart-rate" notifications to improve user wellness.
 
 ### 🎓 Certifications
-* **Google Data Analytics Professional Certificate** - [Coursera professional da certificate](./Certificates/Google_Analytics.pdf)
-* **Genome Guide: Genome Guide Summer Intership** - [Genome Guide Internship Certificate](./Certificates/Genome_Guide.pdf)
+* **Google Data Analytics Professional Certificate** - [Google_Analytics.pdf](./Certificates/Google_Analytics.pdf)
+* **Genome Guide: Genome Guide Summer Intership** - [Genome_Guide.png](./Certificates/Genome_Guide.png)
+* **Note** If the link for the google certificate does not open please download the raw pdf of the certificate to see if by using the small download icon at the right hand side.
