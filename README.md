@@ -24,8 +24,8 @@ Structural visualization and analysis of 1HVR.
 This project is a comprehensive data analysis of smart device fitness data to unlock growth opportunities for Bellabeat. It bridges my **Biotechnology** background with **Data Analytics** to analyze human health biometrics.
 
 ### **Tools Used**
-* **Language:** R (tidyverse, ggplot2, lubridate)
-* **Documentation:** RMarkdown & PDF
+* **Language:** Python
+* **Documentation:** Python Script & PDF
 * **Platform:** Kaggle & GitHub
 
 ### **Key Files**
