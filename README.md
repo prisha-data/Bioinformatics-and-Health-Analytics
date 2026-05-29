@@ -29,7 +29,7 @@ This project is a comprehensive data analysis of smart device fitness data to un
 * **Platform:** Kaggle & GitHub
 
 ### **Key Files**
-* `Bellabeat_Analysis_Code.R`: Full script for data cleaning, processing, and visualization.
+* `Bellabeat_Analysis_Code`: Full script for data cleaning, processing, and visualization.
 * `Bellabeat_Report.pdf`: Final presentation of insights and strategic health recommendations.
 
 ### **Insights Gained**
